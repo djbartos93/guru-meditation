@@ -89,8 +89,19 @@ a:hover {
   color: #EF3743;
 }
 .btn-primary {
-  background-color: #CF000F;
+  background-color: #00acee;
 }
 .btn-primary:hover, .btn-primary:focus {
   background-color: #EF3743;
+}
+
+.btn-info {
+  background-color: #CF000F;
+  border-color: #CF000F;
+}
+
+.btn-info:hover,
+.btn-info:focus{
+  background-color: #EF3743;
+  border-color: #EF3743;
 }
